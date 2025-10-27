@@ -13,7 +13,7 @@ These projects were all about connecting software with hardware on a Raspberry P
 
 What I Did Well
 
-Funnily enough I don't think I did anything particularly too well on these assignments *from a technical perspective*. The greatest thing I did through these assignments was work through adversity. I was having a lot of technical issues and logistical issues setting up my Raspberry Pi for these assignments but I worked through it with patience determination and a lot of re-reading and troubleshooting. 
+Funnily enough I don't think I did anything particularly too well on these assignments *from a technical perspective*. The greatest thing I did through these assignments was work through adversity. I was having a lot of technical issues and logistical issues setting up my Raspberry Pi for these assignments but I worked through it with patience, determination, and a lot of re-reading and troubleshooting. 
 
 Where I Could Improve
 
